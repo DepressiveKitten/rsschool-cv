@@ -77,7 +77,17 @@ public:
 ```
 *****
 ### Expirience:
+I have 1 year of experience, working on client-server desktop applications for Windows.
+In 2021-2022 I attended .NET courses, where studied OOP and SOLID principles, Dependency Injection, Configuration and Logging in C#, asynchronous programming in C#, common C# interfaces, LINQ, testing with NUnit and MOQ, worked with ADO.NET, EF core, ASP.NET core frameworks.
 *****
 ### Education:
+*2019-2023*  
+**COMPUTERS, SYSTEMS AND NETWORKS, BSUIR**  
+*AVERAGE GRADE: 8.34/10*
+
+*2021-2022*  
+**.NET COURSES, EPAM**
 *****
 ### English level:
+* English - B2+; In 2022 i graduated a Streamline English course. Also, for a couple of years now, in my day-to-day life I prefer to turn to english media, articles, documentations, etc.
+* Russian - native;
