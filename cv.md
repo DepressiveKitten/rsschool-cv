@@ -1,25 +1,25 @@
 # Dmitriy Lopatin
 *****
 ### Contacts:
-* **Mail**: mityalopatin12321@gmail.com 
-* **Telegram**: [@PositiveKitten](https://t.me/PositiveKitten)
-* **Github**: [DepressiveKitten](https://github.com/DepressiveKitten)
-* **GitLab**: [mityalopatin12321](https://gitlab.com/mityalopatin12321)
+* **Mail**: mityalopatin12321@gmail.com  
+* **Telegram**: [@PositiveKitten](https://t.me/PositiveKitten)  
+* **Github**: [DepressiveKitten](https://github.com/DepressiveKitten)  
+* **GitLab**: [mityalopatin12321](https://gitlab.com/mityalopatin12321)  
 *****
 ### About Me:
-I am a fast learner and like picking up new skills in different fields. I take all the tasks responsibly and always try to meet my deadlines. Difficulties don’t scare me and I always try my best to find the best solution.
+I am a fast learner and like picking up new skills in different fields. I take all the tasks responsibly and always try to meet my deadlines. Difficulties don’t scare me and I always try my best to find the best solution.  
 *****
 ### Skills:
-* **C#**; Frameworks: ADO.NET, **EF core**, **ASP.NET** core, NUnit, WFP, WinForms
-* **C++**; STL, boost, MPI
-* Experience with **Git** and **TFS**
-* **SQL** (postgresql, mssql, sqlite)
-* Experience with **Bash**
-* System programming
-* Knowledge in computer networks
+* **C#**; Frameworks: ADO.NET, **EF core**, **ASP.NET** core, NUnit, WFP, WinForms  
+* **C++**; STL, boost, MPI  
+* Experience with **Git** and **TFS**  
+* **SQL** (postgresql, mssql, sqlite)  
+* Experience with **Bash**  
+* System programming  
+* Knowledge in computer networks  
 *****
 ### Code Example:
-Code from [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) task on [Leetcode](https://leetcode.com/mityalopatin12321/)
+Code from [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) task on [Leetcode](https://leetcode.com/mityalopatin12321/)  
 ```
 typedef pair<int, int> pi;
 class Graph {
@@ -74,20 +74,20 @@ public:
         return -1;
     }
 };
-```
+```  
 *****
 ### Expirience:
 I have 1 year of experience, working on client-server desktop applications for Windows.
-In 2021-2022 I attended .NET courses, where studied OOP and SOLID principles, Dependency Injection, Configuration and Logging in C#, asynchronous programming in C#, common C# interfaces, LINQ, testing with NUnit and MOQ, worked with ADO.NET, EF core, ASP.NET core frameworks.
+In 2021-2022 I attended .NET courses, where studied OOP and SOLID principles, Dependency Injection, Configuration and Logging in C#, asynchronous programming in C#, common C# interfaces, LINQ, testing with NUnit and MOQ, worked with ADO.NET, EF core, ASP.NET core frameworks.  
 *****
 ### Education:
 *2019-2023*  
 **COMPUTERS, SYSTEMS AND NETWORKS, BSUIR**  
-*AVERAGE GRADE: 8.34/10*
+*AVERAGE GRADE: 8.34/10*  
 
 *2021-2022*  
-**.NET COURSES, EPAM**
+**.NET COURSES, EPAM**  
 *****
 ### English level:
-* English - B2+; In 2022 i graduated a Streamline English course. Also, for a couple of years now, in my day-to-day life I prefer to turn to english media, articles, documentations, etc.
-* Russian - native;
+* English - B2+; In 2022 i graduated a Streamline English course. Also, for a couple of years now, in my day-to-day life I prefer to turn to english media, articles, documentations, etc.  
+* Russian - native;  
